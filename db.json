@@ -1,8 +1,22 @@
 {
   "products": [
+    {
+      "id": 1,
+      "name": "Пепси 1л",
+      "price": 600,
+      "bardcode": "334241654634565",
+      "count": 52
+    }
   ],
   "users": [
+    {
+      "name": "admin",
+      "email": "admin"
+    }
   ],
   "checks": [
+    {
+      
+    }
   ]
 }
